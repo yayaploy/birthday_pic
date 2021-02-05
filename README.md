@@ -88,7 +88,7 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<p align="left"> <img src="QR_birthdaypic.pig" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_birthdaypic.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 
@@ -115,7 +115,29 @@ body::before {
 <a href="https://yayaploy.github.io/birthday/20200726_017.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://yayaploy.github.io/birthday/20200726_018.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_018.JPG" alt="サンプル画像" width="900" /></a>
 
-
+<a href="20210205_001.jpg" data-lightbox="abc"><img src="20210205_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_002.jpg" data-lightbox="abc"><img src="20210205_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_003.jpg" data-lightbox="abc"><img src="20210205_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_004.jpg" data-lightbox="abc"><img src="20210205_004.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_005.jpg" data-lightbox="abc"><img src="20210205_005.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_006.jpg" data-lightbox="abc"><img src="20210205_006.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_007.jpg" data-lightbox="abc"><img src="20210205_007.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_008.jpg" data-lightbox="abc"><img src="20210205_008.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_009.jpg" data-lightbox="abc"><img src="20210205_009.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_010.jpg" data-lightbox="abc"><img src="20210205_010.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_011.jpg" data-lightbox="abc"><img src="20210205_011.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_012.jpg" data-lightbox="abc"><img src="20210205_012.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_013.jpg" data-lightbox="abc"><img src="20210205_013.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_014.jpg" data-lightbox="abc"><img src="20210205_014.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_015.jpg" data-lightbox="abc"><img src="20210205_015.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_016.jpg" data-lightbox="abc"><img src="20210205_016.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_017.jpg" data-lightbox="abc"><img src="20210205_017.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_018.jpg" data-lightbox="abc"><img src="20210205_018.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_019.jpg" data-lightbox="abc"><img src="20210205_019.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_020.jpg" data-lightbox="abc"><img src="20210205_020.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20210205_021.jpg" data-lightbox="abc"><img src="20210205_021.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20210205_022.jpg" data-lightbox="abc"><img src="20210205_022.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20210205_023.jpg" data-lightbox="abc"><img src="20210205_023.jpg" alt="サンプル画像" width="200" /></a>
 
 
 
