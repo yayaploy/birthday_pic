@@ -93,7 +93,7 @@ body::before {
 
 
 
-
+<h1><span class="yellow"><marquee behavior="alternate">!!! วันเกิด/birthday/誕生日 2563(2020)/07/26 !!!</marquee></span></h1>
 
 <a href="https://yayaploy.github.io/birthday/20200726_001.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://yayaploy.github.io/birthday/20200726_002.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_002.JPG" alt="サンプル画像" width="200" /></a>
