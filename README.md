@@ -96,24 +96,24 @@ body::before {
 
 
 <a href="https://yayaploy.github.io/birthday/20200726_001.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_002.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_003.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_004.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_005.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_006.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_007.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_008.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_009.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_010.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_002.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_002.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_003.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_003.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_004.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_004.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_005.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_005.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_006.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_006.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_007.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_007.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_008.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_008.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_009.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_009.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_010.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_010.JPG" alt="サンプル画像" width="200" /></a>
 
-<a href="https://yayaploy.github.io/birthday/20200726_011.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_012.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_013.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_014.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_015.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_015.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_016.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_016.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_017.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_017.JPG" alt="サンプル画像" width="900" /></a>
-<a href="https://yayaploy.github.io/birthday/20200726_018.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_011.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_011.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_012.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_012.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_013.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_013.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_014.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_014.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_015.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_015.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_016.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_016.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_017.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_017.JPG" alt="サンプル画像" width="200" /></a>
+<a href="https://yayaploy.github.io/birthday/20200726_018.JPG" data-lightbox="abc"><img src="https://yayaploy.github.io/birthday/20200726_018.JPG" alt="サンプル画像" width="200" /></a>
 
 <a href="20210205_001.jpg" data-lightbox="abc"><img src="20210205_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20210205_002.jpg" data-lightbox="abc"><img src="20210205_002.jpg" alt="サンプル画像" width="900" /></a>
@@ -134,10 +134,10 @@ body::before {
 <a href="20210205_017.jpg" data-lightbox="abc"><img src="20210205_017.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20210205_018.jpg" data-lightbox="abc"><img src="20210205_018.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20210205_019.jpg" data-lightbox="abc"><img src="20210205_019.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20210205_020.jpg" data-lightbox="abc"><img src="20210205_020.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20210205_021.jpg" data-lightbox="abc"><img src="20210205_021.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20210205_022.jpg" data-lightbox="abc"><img src="20210205_022.jpg" alt="サンプル画像" width="200" /></a>
-<a href="20210205_023.jpg" data-lightbox="abc"><img src="20210205_023.jpg" alt="サンプル画像" width="200" /></a>
+<a href="20210205_020.jpg" data-lightbox="abc"><img src="20210205_020.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_021.jpg" data-lightbox="abc"><img src="20210205_021.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_022.jpg" data-lightbox="abc"><img src="20210205_022.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210205_023.jpg" data-lightbox="abc"><img src="20210205_023.jpg" alt="サンプル画像" width="900" /></a>
 
 
 
