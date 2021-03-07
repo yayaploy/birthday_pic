@@ -85,7 +85,7 @@ body::before {
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
 
 <body>
-<p><a href="https://yayaploy.github.io/birthday">birthday</a>>birthday_pic</a></p>
+<p><a href="https://yayaploy.github.io/birthday">birthday</a>>birthday_pic</p>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
