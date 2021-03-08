@@ -186,7 +186,7 @@ body::before {
 <a href="20210307_003.jpg" data-lightbox="abc"><img src="20210307_003.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20210307_004.jpg" data-lightbox="abc"><img src="20210307_004.jpg" alt="サンプル画像" width="200" /></a>
 <a href="20210307_005.jpg" data-lightbox="abc"><img src="20210307_005.jpg" alt="サンプル画像" width="500" /></a>
-
+<a href="20210307_006.jpg" data-lightbox="abc"><img src="20210307_006.jpg" alt="サンプル画像" width="900" /></a>
 
 
 
