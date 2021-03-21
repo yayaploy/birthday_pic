@@ -189,9 +189,13 @@ body::before {
 <a href="20210307_006.jpg" data-lightbox="abc"><img src="20210307_006.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20210312_001.jpg" data-lightbox="abc"><img src="20210312_001.jpg" alt="サンプル画像" width="900" /></a>
 
-
-
-
+<h1><span class="yellow"><marquee behavior="alternate">!!! วันเกิด/Drive !/運転　！ 2564(2021)/03/20 !!!</marquee></span></h1>
+<a href="20210320_001.jpg" data-lightbox="abc"><img src="20210320_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210320_002.jpg" data-lightbox="abc"><img src="20210320_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210320_003.jpg" data-lightbox="abc"><img src="20210320_003.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210320_004.jpg" data-lightbox="abc"><img src="20210320_004.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210320_005.jpg" data-lightbox="abc"><img src="20210320_005.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20210320_006.jpg" data-lightbox="abc"><img src="20210320_006.jpg" alt="サンプル画像" width="900" /></a>
 
 
 
