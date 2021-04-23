@@ -198,7 +198,8 @@ body::before {
 <a href="20210320_006.jpg" data-lightbox="abc"><img src="20210320_006.jpg" alt="サンプル画像" width="900" /></a>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 82th Birthday！ 2564(2021)/04/17 !!!</marquee></span></h1>
-https://youtu.be/5TeGWoa7dnI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5TeGWoa7dnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <a href="20210422_001.JPG" data-lightbox="abc"><img src="20210422_001.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20210422_002.JPG" data-lightbox="abc"><img src="20210422_002.JPG" alt="サンプル画像" width="450" /></a>
