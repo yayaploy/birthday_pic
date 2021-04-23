@@ -197,10 +197,10 @@ body::before {
 <a href="20210320_005.jpg" data-lightbox="abc"><img src="20210320_005.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20210320_006.jpg" data-lightbox="abc"><img src="20210320_006.jpg" alt="サンプル画像" width="900" /></a>
 
-<a href="20210422_001.jpg" data-lightbox="abc"><img src="20210422_001.jpg" alt="サンプル画像" width="450" /></a>
-<a href="20210422_002.jpg" data-lightbox="abc"><img src="20210422_002.jpg" alt="サンプル画像" width="450" /></a>
-<a href="20210422_003.jpg" data-lightbox="abc"><img src="20210422_003.jpg" alt="サンプル画像" width="450" /></a>
-<a href="20210422_004.jpg" data-lightbox="abc"><img src="20210422_004.jpg" alt="サンプル画像" width="450" /></a>
+<a href="20210422_001.JPG" data-lightbox="abc"><img src="20210422_001.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20210422_002.JPG" data-lightbox="abc"><img src="20210422_002.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20210422_003.JPG" data-lightbox="abc"><img src="20210422_003.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20210422_004.JPG" data-lightbox="abc"><img src="20210422_004.JPG" alt="サンプル画像" width="450" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
